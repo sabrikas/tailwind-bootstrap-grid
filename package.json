@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-bootstrap-grid",
+  "name": "bs-tailwind-grid",
   "version": "5.0.1",
   "description": "Tailwind CSS plugin to generate Bootstrap flexbox grid system.",
   "keywords": [
@@ -11,9 +11,9 @@
     "rtl",
     "tailwindcss"
   ],
-  "repository": "karolis-sh/tailwind-bootstrap-grid",
+  "repository": "sabrikas/tailwind-bootstrap-grid",
   "license": "MIT",
-  "author": "Karolis Šarapnickis <hi@karolis.sh>",
+  "author": "Karolis Šarapnickis <hi@karolis.sh>, Sabri Kaş",
   "main": "lib/index.js",
   "files": [
     "lib"
